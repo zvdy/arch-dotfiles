@@ -67,6 +67,9 @@ The configuration files are organized into the following directories:
 ├── [Thunar](config/Thunar/)
 └── [zsh](config/zsh/)
 
+## Aliases 
+
+I tend to use them almost if not daily, some depend on utils but others are just simplification of long-lasting flags, check [aliases](config/zsh/ALIAS.md) file for more details
 
 ## Wallpapers
 
