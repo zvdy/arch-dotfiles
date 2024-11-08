@@ -9,10 +9,7 @@ This repository contains my personal configuration files (dotfiles) for Arch Lin
 ![nvim](images/nvim.png)
 ![code](images/code.png)
 
-## Directory Structure
-
-The configuration files are organized into the following directories:
-### Updated README with Hyperlinks
+## .config
 
 .
 ├── [btop](config/btop/)
@@ -66,7 +63,7 @@ The configuration files are organized into the following directories:
 │   └── [styles](config/rofi/styles/)
 ├── [Thunar](config/Thunar/)
 └── [zsh](config/zsh/)
-
+```
 ## Aliases 
 
 I tend to use them almost if not daily, some depend on utils but others are just simplification of long-lasting flags, check [aliases](config/zsh/ALIAS.md) file for more details
