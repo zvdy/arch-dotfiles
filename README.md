@@ -10,6 +10,11 @@ This repository contains my personal configuration files (dotfiles) for Arch Lin
 ![code](images/code.png)
 ![spotify](images/spty.png)
 
+# Videos
+
+<video src="video/animations.mkv" controls></video>
+
+
 ## .config
 
 - [btop](config/btop/)
