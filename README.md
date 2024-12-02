@@ -12,7 +12,7 @@ This repository contains my personal configuration files (dotfiles) for Arch Lin
 
 # Videos
 
-<video src="video/animations.mkv" controls></video>
+<video src="video/animations.mp4" controls></video>
 
 
 ## .config
