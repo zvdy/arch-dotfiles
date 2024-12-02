@@ -8,7 +8,7 @@ This repository contains my personal configuration files (dotfiles) for Arch Lin
 ![rofi](images/rofi.png)
 ![nvim](images/nvim.png)
 ![code](images/code.png)
-![spotify](images/spotify.png)
+![spotify](images/spty.png)
 
 ## .config
 
